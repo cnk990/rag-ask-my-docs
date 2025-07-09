@@ -10,8 +10,7 @@ Built with:
 
 Perfect as a lightweight demo of how RAG works end-to-end.
 ## 🌐 Live Demo
-
-Check out the app on [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ask-my-docs-rag.streamlit.app)
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ask-my-docs-rag.streamlit.app)
 
 -------
 
