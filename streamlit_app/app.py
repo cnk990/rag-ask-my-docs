@@ -112,12 +112,14 @@ if query and selected_doc:
         )
     else:
         context = "\n\n".join(top_chunks)
-        answer = ask_llm(client, context, query)
+
+        with st.spinner("Generating your answer..."):
+            answer = ask_llm(client, context, query)
 
         st.write("## Answer:")
         st.write(answer)
 
-        with st.expander("View Retrieved Chunks"):
+        with st.expander("View Top Chunks Retrieved"):
             for i, chunk in enumerate(top_chunks, start=1):
                 st.markdown(f"**Chunk {i}:** {chunk}")
 
