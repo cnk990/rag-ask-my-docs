@@ -1,0 +1,43 @@
+Security Policy
+
+The security of our company’s data, systems, and physical premises is critical.
+This policy outlines guidelines and mandatory practices to ensure a secure working environment.
+
+Password Requirements:
+All employees must create strong passwords consisting of at least twelve (12) characters,
+including uppercase letters, lowercase letters, numbers, and symbols.
+Passwords must be changed every ninety (90) days. Employees are prohibited from reusing previous passwords.
+
+Multi-Factor Authentication:
+Multi-factor authentication (MFA) is required for accessing all company systems, including email,
+cloud services, and administrative tools. Employees must enroll their devices and follow the MFA prompts during login.
+
+Data Classification:
+Company data is classified into three categories: Confidential, Internal Use Only, and Public.
+Employees must handle confidential data with utmost care and only share it with authorized personnel. Data labeled Internal Use Only should not be disclosed outside the company.
+
+Email Security:
+Employees must not open email attachments or click links from unknown sources.
+Suspicious emails should be reported to the IT Security team immediately. Sensitive information must not be shared via email unless encrypted.
+
+Device Security:
+All company laptops, desktops, and mobile devices must be secured with passwords or biometric authentication.
+Devices should be locked when unattended. Employees should not install unauthorized software on company devices.
+
+Remote Work Guidelines:
+When working remotely, employees must use secure, company-approved VPN connections.
+Sensitive conversations should not take place in public spaces. All devices used remotely should comply with company security standards.
+
+Incident Reporting:
+Any security incident, suspected breach, or loss of data must be reported to the IT Security team immediately.
+Prompt reporting helps mitigate potential risks.
+
+Physical Security:
+Access to company premises is controlled via ID badges. Visitors must sign in and be escorted at all times.
+Employees must ensure sensitive documents are secured in locked cabinets when not in use.
+
+Compliance:
+Failure to adhere to security policies may result in disciplinary action, up to and including termination of employment.
+
+Policy Review:
+This security policy will be reviewed annually and updated as necessary to address emerging threats and technologies.
