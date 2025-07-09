@@ -17,7 +17,7 @@ from rag_pipeline.utils import (
 
 
 # Initialize client
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI(api_key=st.secrets["openai"]["api_key"])
 
 # ----------Load and embed documents----------
 # Load all text files from data/
