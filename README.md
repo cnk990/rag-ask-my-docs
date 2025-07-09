@@ -9,6 +9,9 @@ Built with:
 - Streamlit for an interactive UI
 
 Perfect as a lightweight demo of how RAG works end-to-end.
+## 🌐 Live Demo
+
+Check out the app on Streamlit: [(https://static.streamlit.io/badges/streamlit_badge_black_white.svg)Ask My Docs - RAG](https://ask-my-docs-rag.streamlit.app)
 
 -------
 
